@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MenuText
+comment0.text=\r\n\ The\ main\ manu\ and\ the\ buttons\r\n
+comment1.params=x
+comment1.target=MenuText(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=x
+comment3.target=void\ UpdateVis(boolean)
+comment4.params=
+comment4.target=void\ Check()
+numComments=5

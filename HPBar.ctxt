@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=HPBar
+comment0.text=\r\n\ visuals\r\n
+comment1.params=x
+comment1.target=HPBar(int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

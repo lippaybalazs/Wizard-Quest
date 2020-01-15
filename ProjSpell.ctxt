@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=ProjSpell
+comment0.text=\r\n\ Mainly\ spells\ that\ are\ thrown\ towards\ the\ enemy\r\n\ the\ behaviour\ is\ mostly\ hard\ coded,\ but\ all\ self\ explanatory\r\n
+comment1.params=x
+comment1.target=ProjSpell(int)
+comment10.params=
+comment10.target=void\ Firegrenade()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ Flamethrow()
+comment4.params=
+comment4.target=void\ Rockthrow()
+comment5.params=
+comment5.target=void\ Tornado()
+comment6.params=
+comment6.target=void\ Watergun()
+comment7.params=
+comment7.target=void\ Rockblast()
+comment8.params=
+comment8.target=void\ Pyroblast()
+comment9.params=
+comment9.target=void\ Fireball()
+numComments=11

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Projectile
+comment0.text=\r\n\ The\ projectiles\ that\ are\ suposed\ to\ be\ avoided,\r\n\ most\ of\ the\ code\ is\ for\ visuals\r\n
+comment1.params=x\ y\ a\ b\ dmg
+comment1.target=Projectile(double,\ double,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=boolean\ CheckColl()
+numComments=4

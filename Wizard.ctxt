@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Wizard
+comment0.text=\r\n\ The\ main\ character,\ most\ of\ it\ is\ selfexplanatory\r\n
+comment1.params=
+comment1.target=Wizard()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ KeyCheck()
+comment4.params=x\ y
+comment4.target=void\ move(double,\ double)
+comment5.params=x
+comment5.target=void\ Damage(int)
+comment6.params=
+comment6.target=void\ PowerManage()
+comment7.params=
+comment7.target=void\ cast()
+comment8.params=
+comment8.target=boolean\ Spell()
+comment9.params=a\ b\ c\ d
+comment9.target=void\ Fail(int,\ int,\ int,\ int)
+numComments=10
